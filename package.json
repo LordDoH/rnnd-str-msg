@@ -1,0 +1,24 @@
+{
+  "name": "rnnd-str-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordDoH/rnnd-str-msg.git"
+  },
+  "author": "Daniel Ochoa Henao <dochoahenao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LordDoH/rnnd-str-msg/issues"
+  },
+  "homepage": "https://github.com/LordDoH/rnnd-str-msg#readme",
+  "bin": {
+    "rnnd-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
